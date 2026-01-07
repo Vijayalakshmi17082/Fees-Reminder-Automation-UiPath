@@ -1,0 +1,6 @@
+{
+  "Name": "FeesRemainderBot",
+  "ProjectType": "Process",
+  "Description": "Automated Fee Remainder System",
+  "MainFile": "Main.xaml"
+}
